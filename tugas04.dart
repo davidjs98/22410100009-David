@@ -15,7 +15,7 @@ void main(){
     return kel;
   }
 
-  print (volume(2,3,4));
-  print (LuasPermukaan(2,3,4));
-  print (Keliling(2,3,4));
+  print ("volume balok adalah = ${volume(2,3,4)}");
+  print ("Luas permukaan balok adalah = ${volume(2,3,4)}");
+  print ("Keliling Rusuk balok adalah = ${volume(2,3,4)}");
 }
