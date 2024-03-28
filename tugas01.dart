@@ -12,4 +12,5 @@ void main(){
   else {
     print('nilai sangat tidak manuk akal');
   }
+  print('nilai yang anda dapatkan adalah $n');
 }
